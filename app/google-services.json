@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987503231742",
+    "project_id": "fir-app-c0bcb",
+    "storage_bucket": "fir-app-c0bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987503231742:android:e8df1a1f43594186e9dbaf",
+        "android_client_info": {
+          "package_name": "com.fcrotich.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987503231742-b2qfq71hqv7j82rloobg679emdng159s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxrFD0AczP9n4NIa8TFFlTpg5-8qJmhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987503231742-b2qfq71hqv7j82rloobg679emdng159s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
